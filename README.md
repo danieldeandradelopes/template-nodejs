@@ -2,6 +2,7 @@
 Template para toda nova aplicação.
 
 Configurações feitas:
+
 ```eslint```
 
 ```prettier```
