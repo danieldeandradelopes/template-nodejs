@@ -2,7 +2,7 @@
 Template para toda nova aplicação.
 
 Configurações feitas:
-## eslint
+```eslint```
 ## prettier
 ## editorConfig
 ## sequelize
