@@ -5,6 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
+    "install": "^0.13.0",
+    "mysql2": "^2.2.5",
     "sequelize": "^6.3.5"
   },
   "scripts": {

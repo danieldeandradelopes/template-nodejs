@@ -1,10 +1,10 @@
 module.exports = {
-  dialect: 'postgres',
+  dialect: 'mysql',
   host: 'localhost',
-  username: 'postgres',
-  password: 'docker',
-  database: 'node',
-  difine: {
+  username: 'root',
+  password: 'root',
+  database: 'backoffice',
+  define: {
     timestamps: true,
     underscored: true,
     underscoredAll: true,
