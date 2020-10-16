@@ -17,6 +17,8 @@ services:
     # volumes:
     #   - ./mysql-data:/var/lib/mysql
     networks:
+      fix-network:
+        ipv4_address: 172.10.0.10
 
 networks:
   # --------------------------------------------------
